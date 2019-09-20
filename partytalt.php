@@ -3,9 +3,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Git out of here</title>
-    <meta name="description" content="">
+    <meta name="description" content="The purpose of this page is to show if a banana or a apple is a fruit!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="">
 </head>
 <body>
     <img src="bilder/espresso.jpg">
