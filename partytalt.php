@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Git out of here</title>
-            <meta name="description" content="">
+    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="">
 </head>
@@ -17,7 +17,7 @@ if ($banan + 1 == $Äpple && $Äpple == $banan +1 ) echo 'suveränt';
 $banan = 100000000000000000000000000000000000;
 }catch (Exception $e) {
     echo 'Caught exception: ',  $e->getMessage(), "\n";
-    
+
 }
 ?>
     </body>
