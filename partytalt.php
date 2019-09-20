@@ -10,15 +10,10 @@
     <img src="bilder/espresso.jpg">
     <?php
     try {
-        $frukt1 = true;
-        $frukt2 = true;
-        $banan = 1;
-        $banan_ar_frukt = $frukt1;
-        $apple = 2;
-        $apple_ar_frukt = $frukt2;
-        if ($banan_ar_frukt == true && $banan_ar_frukt == true)
-            if ($banan + 1 == $apple && $apple == $banan + 1)
-                echo 'suveränt';
+        $banan_ar_frukt = true;
+        $apple_ar_frukt = true;
+        if ($banan_ar_frukt && $apple_ar_frukt)
+              header("location: https://www.lexico.com/en/explore/is-a-banana-a-fruit-or-a-herb");
 
         $banan = 100000000000000000000000000000000000;
     } catch (Exception $e) {
