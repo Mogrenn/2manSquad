@@ -15,7 +15,6 @@
         if ($banan_ar_frukt && $apple_ar_frukt)
               header("location: https://www.lexico.com/en/explore/is-a-banana-a-fruit-or-a-herb");
 
-        $banan = 100000000000000000000000000000000000;
     } catch (Exception $e) {
 
         echo 'Caught exception: ', $e->getMessage(), "\n";
