@@ -24,7 +24,7 @@
 </body>
 </html>
 <?php
-error_log('nu har vi kört denna X antal gånger', 3, 'error.log');
+error_log('nu har vi kört denna X antal gånger', 3, 'test.log');
 /*
   Git out of here!
   Syftet med denna hemsida är att visa om en banan eller äpple är en frukt
